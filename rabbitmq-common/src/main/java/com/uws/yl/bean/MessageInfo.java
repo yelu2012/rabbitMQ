@@ -1,6 +1,5 @@
 package com.uws.yl.bean;
 
-import javafx.scene.chart.PieChart;
 
 import java.io.Serializable;
 import java.util.Date;
